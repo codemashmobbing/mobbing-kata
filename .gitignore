@@ -1,0 +1,18 @@
+.gradle
+/build/
+gradle/
+
+.idea
+*.iml
+*.log
+.vscode/
+
+.classpath
+.project
+.settings/
+bin/
+
+# Ignore Gradle build output directory
+build
+
+.DS_Store
